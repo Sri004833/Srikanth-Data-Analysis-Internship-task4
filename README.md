@@ -2,7 +2,7 @@
 ## Data Storytelling & Statistical Validation
 
 ### 👤 Intern Name
-[Your Name]
+Srikanth V
 
 ### 🏢 Organization
 ApexPlanet Software Pvt. Ltd.
@@ -92,3 +92,4 @@ Customers aged 36–45 spend significantly more than younger customers.
 ---
 
 ⭐ *This repository is part of my Data Analytics Internship portfolio at ApexPlanet Software Pvt. Ltd.*
+
